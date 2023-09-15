@@ -329,6 +329,10 @@ span{
         position: absolute;
         height: 0;
     }
+    .voce_pode_se_interessar{
+        margin-bottom: 15px;
+        margin-top: 50px;
+    }
     .barra_de_pesquisa{
         position: absolute;
         left: 1.5vw;
