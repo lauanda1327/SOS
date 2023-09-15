@@ -117,4 +117,8 @@ button:hover{
     background-color: white;
     transform: scale(1.03);
 }
-
+button > a{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
