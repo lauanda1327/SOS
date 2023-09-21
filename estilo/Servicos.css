@@ -285,7 +285,9 @@ span{
 
 
 /*responsividade OBS: deixe sempre a responsividade no final do código*/
-
+.menumobile{
+    display: none;
+}
 @media (max-width: 787px) {
     .menumobile{
         width:100vw;

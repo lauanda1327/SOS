@@ -123,6 +123,9 @@ button > a{
     font-weight: bold;
     text-decoration: none;
 }
+.menumobile{
+    display: none;
+}
 @media (max-width: 787px) {
     .menumobile{
         width:100vw;

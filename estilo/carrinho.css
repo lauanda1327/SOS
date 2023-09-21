@@ -382,6 +382,9 @@ main section {
 .menu{
 background: #1b1927;
 }
+.menumobile{
+    display: none;
+}
 @media (max-width: 787px) {
     .menumobile{
         width:100vw;
